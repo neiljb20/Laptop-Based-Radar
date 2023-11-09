@@ -1,49 +1,51 @@
 ## Members
-Henry Forsyth, Computer Engineering Student (2024)
-rhforsythjr@vt.edu
+Neil Baptiste II, Computer Engineering Student (2024)
+neiljb20@vt.edu
 
 ## Mentor
-MENTOR NAME HERE
+Neil Baptiste II 
 
 ## Current Status
 IN PROGRESS
 
 ## Project Overview
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc vehicula, odio eu dictum aliquet, enim elit tempor diam, quis volutpat mi eros ut nisi. Aliquam luctus orci eget accumsan porta. Proin sollicitudin ultricies lacus et varius. Pellentesque tempor vehicula tempus. Integer semper id lorem vehicula tristique. Suspendisse nec placerat libero, eget aliquet eros. Phasellus iaculis quis lorem in ultrices. Nunc lobortis odio at sem pretium dictum. Integer sed tellus quis lorem pretium posuere.
+I am building a Laptop Based Radar System that is capable of sensing range, doppler, and SAR (Synthetic Aperture) Imaging
 
 ## Educational Value Added
 
-Vivamus dapibus iaculis dui. Nullam vitae arcu a nisi elementum semper eu eu velit. Suspendisse vel dictum lacus. Sed facilisis luctus consequat. Donec vulputate eu dolor in molestie. Maecenas pretium sem non tellus facilisis sollicitudin id ut nulla. In condimentum orci nisi, sagittis facilisis neque convallis eget. Duis ut sem cursus, placerat mi pellentesque, mollis eros. Integer efficitur blandit elit, sed egestas sem porta in. Mauris euismod nulla ac tellus tempus, eu egestas dui molestie. Proin faucibus enim quis consequat sodales. Pellentesque eleifend blandit augue et laoreet. Phasellus vel posuere nisi, ac aliquam arcu.
+Completing this project will give me an introduction into applied electromagnetics, RF Design, signal processing, analog design, and radar system design.
 
 ## Tasks
 
-<!-- Your Text Here. You may work with your mentor on this later when they are assigned -->
+To Be Determined
 
 ## Design Decisions
 
-<!-- Your Text Here. You may work with your mentor on this later when they are assigned -->
+To Be Determined
 
 ## Design Misc
 
-<!-- Your Text Here. You may work with your mentor on this later when they are assigned -->
+To Be Determined
 
 ## Steps for Documenting Your Design Process
 
-<!-- Your Text Here. You may work with your mentor on this later when they are assigned -->
+I will keep track of my progress in a document that will be linked here: 
 
 ## BOM + Component Cost
 
-<!-- Your Text Here. You may work with your mentor on this later when they are assigned -->
+In Progress
 
 ## Timeline
 
-<!-- Your Text Here. You may work with your mentor on this later when they are assigned -->
+11/12-11/18: Build different stages of the circuit with the parts I have available to me 
+11/18-11/27: Get Ordered parts in and continue building the different stages of the circuit 
+11/27-12/6: Finish construction of the radar and begin testing the accuracy of the range sensing, doppler, and SAR Imaging
 
 ## Useful Links
 
-<!-- Your Text Here. You may work with your mentor on this later when they are assigned -->
+https://ocw.mit.edu/courses/res-ll-003-build-a-small-radar-system-capable-of-sensing-range-doppler-and-synthetic-aperture-radar-imaging-january-iap-2011/resources/mitres_ll_003iap11_proj_in/
 
 ## Log
 
-<!-- Your Text Here. You may work with your mentor on this later when they are assigned -->
+To Be Determined
